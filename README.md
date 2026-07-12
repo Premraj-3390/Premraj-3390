@@ -5,6 +5,8 @@
 <br><br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 <br><br>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e8d30426-b3c1-4ae9-9bf1-15880afd93fd" width="300">
+<br><br>
 ## 🐍 My Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/Premraj-3390/Premraj-3390/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
