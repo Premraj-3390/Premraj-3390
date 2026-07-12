@@ -37,3 +37,9 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
+
+## 🐍 My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Premraj-3390/Premraj-3390/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
