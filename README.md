@@ -16,12 +16,6 @@ AI & Data Science Student
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 <br><br>
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-</p>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-<br><br>
 ## 🔥 GitHub Streak
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
