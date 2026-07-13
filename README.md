@@ -5,12 +5,10 @@
 <br><br>
 <br><br>
 <br><br>
-
 <br><br>
 <br><br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 <br><br>
-
 ## 🐍 My Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/Premraj-3390/Premraj-3390/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -23,8 +21,6 @@
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 <br><br>
-
-
 ## 🔥 GitHub Streak
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
